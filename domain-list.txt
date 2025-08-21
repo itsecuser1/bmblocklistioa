@@ -1,6 +1,5 @@
 vpnsuper.com
 urban-vpn.com
-android2.mobilejump.mobi
 nordvpn.com
 vpnlumos.com
 vpnunlimitedapp.com
@@ -15,3 +14,4 @@ proxysite.com
 hotspotshield.com
 proxysite.com
 vpnsuper.com
+hola.org
