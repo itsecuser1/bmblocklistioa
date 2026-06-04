@@ -22,6 +22,6 @@ mask.apple-dns.net
 *.croxyproxy.com
 *.wirevpn.app
 *.wirevpn.cc
-*.proton.me
+vpn-api.proton.me
 *.expressapisv2.net
 *.expressvpn.com
