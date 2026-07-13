@@ -4784,3 +4784,7 @@ onlinestatus.live
 modpak.live
 mail163.info
 https://ecility.xyz/
+polygon.drpc.org
+polygon.publicnode.com
+polygon-mainnet.gateway.tatum.io
+tenderly.rpc.polygon.community
