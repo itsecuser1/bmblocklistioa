@@ -4788,3 +4788,4 @@ polygon.drpc.org
 polygon.publicnode.com
 polygon-mainnet.gateway.tatum.io
 tenderly.rpc.polygon.community
+https://pied9pcl.parsgol.casino/script.sh
